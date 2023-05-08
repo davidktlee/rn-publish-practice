@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/rn-publish-practice/static/js/main.a058b3e9.js",
+    "static/js/730.103fd775.js": "/rn-publish-practice/static/js/730.103fd775.js",
+    "favicon.ico": "/rn-publish-practice/favicon.ico",
+    "index.html": "/rn-publish-practice/index.html",
+    "favicon-32.png": "/rn-publish-practice/favicon-32.png",
+    "favicon-16.png": "/rn-publish-practice/favicon-16.png",
+    "manifest.json": "/rn-publish-practice/manifest.json",
+    "serve.json": "/rn-publish-practice/serve.json",
+    "main.a058b3e9.js.map": "/rn-publish-practice/static/js/main.a058b3e9.js.map",
+    "730.103fd775.js.map": "/rn-publish-practice/static/js/730.103fd775.js.map"
+  },
+  "entrypoints": [
+    "static/js/730.103fd775.js",
+    "static/js/main.a058b3e9.js"
+  ]
+}
